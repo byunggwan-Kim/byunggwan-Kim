@@ -17,7 +17,7 @@
 <br/>
 
 
-<h3>📫 How to reach me: ktera123@naver.com</h3>
+<h3>📫 How to reach me: ktera1231@gmail.com</h3>
 <h3>⚡ fact: I LOVE CODING! I AM A GOOD SOFTWARE DEVELOPER!😋</h3>
 </div>
 <br/>
