@@ -25,4 +25,3 @@
 <br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=byunggwan-Kim)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byunggwan-Kim)
